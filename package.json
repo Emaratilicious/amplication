@@ -67,7 +67,7 @@
     "@ntegral/nestjs-sendgrid": "^1.0.0",
     "@octokit/auth-app": "^4.0.8",
     "@octokit/core": "^4.1.0",
-    "@octokit/openapi-types": "^19.0.0",
+    "@octokit/openapi-types": "^26.0.0",
     "@octokit/rest": "^19.0.5",
     "@opentelemetry/id-generator-aws-xray": "^1.2.1",
     "@primer/react": "^35.14.1",
